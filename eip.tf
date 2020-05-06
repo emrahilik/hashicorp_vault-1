@@ -1,4 +1,4 @@
 resource "aws_eip" "vault" {
-  vpc      = true
+  vpc  = true
   tags = "${var.tags}"
 }

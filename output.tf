@@ -9,5 +9,3 @@ output "Thanks for " {
 output "Team-6 Members" {
   value = "Tavus, Betul, Yusuf, Emilbek, Daut. "
 }
-
-
